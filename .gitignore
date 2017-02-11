@@ -8,3 +8,5 @@ python2/*
 *.sh.o*
 *.pyc
 *.model
+.idea
+.idea/*
